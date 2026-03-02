@@ -1,0 +1,1 @@
+print("Hello world");print("Have a good day");print("Best of luck")
